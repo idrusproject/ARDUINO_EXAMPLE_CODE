@@ -1,0 +1,4 @@
+https://idrusproject.com/sim800gps_idrusproject/
+idrh2421_sim800gps
+idrh2421_sim800gpsuser
+idrh2421_sim800gpspassword
